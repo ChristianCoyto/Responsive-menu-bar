@@ -16,7 +16,7 @@ body {
 }
 
 nav {
-    background: rgba(90, 89, 89, 0.9);
+    background: rgba(198, 53, 53, 0.9);
     height: 80px;
     width: 100%;
     display: flex;
@@ -51,7 +51,7 @@ nav ul li a {
 }
 
 .active, a:hover {
-    background: rgba(22, 19, 19, 0.322);
+    background: rgba(51, 8, 8, 0.9);
     transition: .5s;
 }
 
